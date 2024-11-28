@@ -1,0 +1,17 @@
+{
+    "register": "Register",
+    "login":"Login",
+    "name": "Name",
+    "mobileNumber": "Mobile Number",
+    "password": "Password",
+    "confirmPassword": "Confirm Password",
+    "category": "Are you a Buyer or Seller?",
+    "buyer":"Buyer",
+    "seller":"Seller",
+    "registerButton": "Register",
+    "loginButton":"Login",
+    "alreadyUser": "Already have an account? Login",
+    "newUser": "New user? Register "
+
+  }
+  
